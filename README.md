@@ -1,3 +1,4 @@
+<img width="3024" height="4032" alt="nigel-image" src="https://github.com/user-attachments/assets/e013036a-8d20-4616-927e-6d154022d24f" />
 ## Hi there 👋
 
 <!--

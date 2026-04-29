@@ -1,4 +1,5 @@
-<img width="3024" height="4032" alt="nigel-image" src="https://github.com/user-attachments/assets/e013036a-8d20-4616-927e-6d154022d24f" />
+<img width="2560" height="1440" alt="Blue Modern Photo Technology YouTube Banner" src="https://github.com/user-attachments/assets/81f5c26c-3953-400a-89ea-ff7b919dbe65" />
+
 ## Hi there 👋
 
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:c0392b&height=160&section=header&text=Nigel%20Mashayamombe&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineer%20%7C%20ICT%20Technologist&descAlignY=68&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:c0392b&height=160&section=header&text=Nigel%20Mashayamombe&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Security%20Analyst&descAlignY=68&descSize=14" width="100%" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@ Backend and full-stack engineer with hands-on industry experience building and d
 
 I hold certifications in information security (ISO/IEC 27001, ISC2 CC) and network fundamentals, and I write code that's meant to run in production, not just pass a test.
 
-Based in **Zimbabwe** — available remotely.
+Based in **Zimbabwe** .
 
 ---
 

@@ -1,4 +1,4 @@
-<img width="2560" height="1200" alt="Blue Modern Photo Technology YouTube Banner" src="https://github.com/user-attachments/assets/81f5c26c-3953-400a-89ea-ff7b919dbe65" />
+<img width="2560" height="1400" alt="Blue Modern Photo Technology YouTube Banner" src="https://github.com/user-attachments/assets/81f5c26c-3953-400a-89ea-ff7b919dbe65" />
 
 ## Hi there 👋
 
